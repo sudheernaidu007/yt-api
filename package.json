@@ -1,8 +1,4 @@
 {
-  "name": "yt-transcript-api",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "youtube-transcript": "^1.0.6"
-  }
+  "name": "yt-api-custom",
+  "version": "1.0.0"
 }
